@@ -10,15 +10,15 @@ This program performs exploratory data analysis on the dataset using Python Pand
 
 Following data cleaning, two Scikit-Learn KNN models are created for two different distance metrics: Square Euclidean and Manhattan distance. The performance of the two models using different distance metrics is compared in terms of accuracy to the test data and Scikit-Learn Classification Report.
 
-#Assignment 11 DataPreprocessing
+# Assignment 11 DataPreprocessing
 
-#Assignment 12 Logistic Regression
+# Assignment 12 Logistic Regression
 
-#Assignment 13 K-NN
+# Assignment 13 K-NN
 
-#Assignment 14 SVM
+# Assignment 14 SVM
 
-#Assignment 15 Decision Trees
+# Assignment 15 Decision Trees
 
-#Assignment 16 Random Forest
+# Assignment 16 Random Forest
 
